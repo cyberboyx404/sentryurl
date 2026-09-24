@@ -49,20 +49,34 @@ class Colors:
 
 BANNER = f"""
 {Colors.CYAN}{Colors.BOLD}
-   ____             _                  _   _ ____  _
-  / ___|  ___ _ __ | |_ _ __ _   _  | | | |  _ \\| |
-  \\___ \\ / _ \\ '_ \\| __| '__| | | | | | | | |_) | |
-   ___) |  __/ | | | |_| |  | |_| | | |_| |  _ <| |
-  |____/ \\___|_| |_|\\__|_|   \\__, |  \\___/|_| \\_\\_|
-                             |___/
+ ███████╗███████╗███╗   ██╗████████╗██████╗ ██╗   ██╗██╗   ██╗██████╗ ██╗
+ ██╔════╝██╔════╝████╗  ██║╚══██╔══╝██╔══██╗╚██╗ ██╔╝██║   ██║██╔══██╗██║
+ ███████╗█████╗  ██╔██╗ ██║   ██║   ██████╔╝ ╚████╔╝ ██║   ██║██████╔╝██║
+ ╚════██║██╔══╝  ██║╚██╗██║   ██║   ██╔══██╗  ╚██╔╝  ██║   ██║██╔══██╗██║
+ ███████║███████╗██║ ╚████║   ██║   ██║  ██║   ██║   ╚██████╔╝██║  ██║██║
+ ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝
 {Colors.RESET}
-{Colors.BOLD}{Colors.WHITE}  SentryURL v1.0{Colors.RESET}
-  URL Safety & Phishing Indicator Scanner
 
-{Colors.CYAN}  Author : cyberboyx404
-  Version: 1.0.0
-  Mode   : Defensive / Authorized Security Testing
+{Colors.WHITE}{Colors.BOLD}
+             ┌──────────────────────────────────────────────┐
+             │       URL SAFETY & PHISHING SCANNER         │
+             └──────────────────────────────────────────────┘
 {Colors.RESET}
+
+{Colors.CYAN}     ◈ SentryURL{Colors.RESET} {Colors.WHITE}v1.0{Colors.RESET}
+{Colors.BLUE}     ◈ Defensive URL Intelligence & Risk Analysis{Colors.RESET}
+
+{Colors.GREEN}     ┌─[ SYSTEM ]─────────────────────────────────────────┐
+     │  Author   : {Colors.WHITE}cyberboyx404{Colors.GREEN}
+     │  Version  : {Colors.WHITE}1.0.0{Colors.GREEN}
+     │  Engine   : {Colors.WHITE}URL Risk Analysis{Colors.GREEN}
+     │  Mode     : {Colors.WHITE}Defensive / Authorized Testing{Colors.GREEN}
+     │  Platform : {Colors.WHITE}Kali Linux / Linux{Colors.GREEN}
+     └──────────────────────────────────────────────────────┘{Colors.RESET}
+
+{Colors.YELLOW}     ⚠ Use only on URLs you own or are authorized to analyze.{Colors.RESET}
+
+{Colors.CYAN}══════════════════════════════════════════════════════════════{Colors.RESET}
 """
 
 
