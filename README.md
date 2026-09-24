@@ -27,7 +27,7 @@ SentryURL analyzes URLs across multiple security dimensions — URL structure, S
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/sentryurl.git
+git clone https://github.com/cyberboyx404/sentryurl.git
 cd sentryurl
 
 python -m venv venv
@@ -98,9 +98,9 @@ This project is intended for educational purposes and personal/authorized securi
 
 ## 👤 Author
 
-**Nisar Ali / CodeWithNisar**
+**cyberboyx404**
 
-GitHub: https://github.com/codewithnisar
+GitHub: https://github.com/cyberboyx404
 
 ## 📄 License
 
